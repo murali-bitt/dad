@@ -1,14 +1,14 @@
 
 // PHOTOS: Replace image URLs and captions with your own family photos.
 const memoryData = [
-  { src: "1.jpeg", caption: "A peaceful family day outdoors" },
-  { src: "2.jpeg", caption: "Smiles that made everything brighter" },
-  { src: "3.jpeg", caption: "Our favorite travel memory together" },
-  { src: "4.jpeg", caption: "Love and laughter in one frame" },
-  { src: "5.jpeg", caption: "A special celebration we still remember" },
-  { src: "9.jpeg", caption: "A beautiful day with the whole family" },
-  { src: "7.jpeg", caption: "Warm moments and happy hearts" },
-  { src: "8.jpeg", caption: "Another memory we hold close forever" }
+  { src: "1.jpeg", caption: "" },
+  { src: "2.jpeg", caption: "" },
+  { src: "3.jpeg", caption: "" },
+  { src: "4.jpeg", caption: "" },
+  { src: "5.jpeg", caption: "" },
+  { src: "9.jpeg", caption: "" },
+  { src: "7.jpeg", caption: "" },
+  { src: "8.jpeg", caption: "" }
 ];
 
 // EDIT LETTER MESSAGE: This text is shown with a typing animation.
